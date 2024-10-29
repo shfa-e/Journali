@@ -12,7 +12,7 @@ import SwiftData
 struct JournaliApp: App {
     var body: some Scene {
         WindowGroup {
-            MainView()
+            SplashScreenUIView()
                 .modelContainer(for: JournalEntry.self)
         }
     }

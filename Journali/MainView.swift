@@ -66,7 +66,7 @@ struct MainView: View {
                         Image(systemName: "line.3.horizontal.decrease.circle.fill")
                             .font(.system(size: 30))
                             .foregroundStyle(purple, eblack)
-                            .padding(.trailing, 10) // Spacing between buttons
+                            .padding(.trailing, -12) // 
                     }
                     
                     Button(action: {
@@ -85,6 +85,7 @@ struct MainView: View {
                 viewModel.fetchEntries(context: context)
             }
         }
+        .navigationBarBackButtonHidden(true)
     }
 }
 

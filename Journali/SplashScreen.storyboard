@@ -22,7 +22,9 @@
                         <constraints>
                             <constraint firstItem="cb1-2v-IzO" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="J0o-My-dm1"/>
                             <constraint firstAttribute="bottom" secondItem="cb1-2v-IzO" secondAttribute="bottom" id="dwF-Ge-awE"/>
+                            <constraint firstItem="cb1-2v-IzO" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="m59-yR-5iX"/>
                             <constraint firstItem="cb1-2v-IzO" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="pEN-p8-ZLk"/>
+                            <constraint firstItem="cb1-2v-IzO" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="uVx-0a-yRp"/>
                             <constraint firstAttribute="trailing" secondItem="cb1-2v-IzO" secondAttribute="trailing" id="uW1-Ko-4Qw"/>
                         </constraints>
                     </view>

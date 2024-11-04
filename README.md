@@ -1,6 +1,6 @@
 # Journali
 
-![Journali Logo](assets/journali_logo.png)
+![Journali Logo](ReadMePics/journali_logo.png)
 
 Journali is a modern and intuitive journaling app built with SwiftUI. It allows users to capture, organize, and reflect on their daily thoughts, ideas, and experiences. With features like searchable entries, bookmarking, sorting, and a sleek splash screen, Journali offers a seamless journaling experience for iOS users.
 
